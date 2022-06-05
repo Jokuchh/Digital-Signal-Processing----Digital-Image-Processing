@@ -12,5 +12,8 @@ In the Second Report, i supposed to do the tutorial which gives me a brief intro
 
 
 # Digital-Image-Processing
+Wei and Levoy methods
 
 [Report-Image-Processing-DS.pdf](https://github.com/Jokuchh/Digital-Signal-Processing----Digital-Image-Processing/files/8840804/Report-Image-Processing-DS.pdf)
+
+[Wei and Levoy methods.pdf](https://github.com/Jokuchh/Digital-Signal-Processing----Digital-Image-Processing/files/8840811/Wei.and.Levoy.methods.pdf)
